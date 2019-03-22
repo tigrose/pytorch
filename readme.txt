@@ -11,6 +11,7 @@ git diff : to tell your the modification of the files.
 
 git reset --hard commit_id or git reset --hard HEAD^
 git log : used to take a look about commit history
-git reflot : used to take a look about command history
+git reflog : used to take a look about command history
 
-
+git checkout -- file : 
+git reset HEAD <file> : to clean the stage
