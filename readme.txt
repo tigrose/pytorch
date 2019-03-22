@@ -9,5 +9,8 @@ git commit -m msg : to commit your requests to the git repository with msg
 git status : to know the state of workspace
 git diff : to tell your the modification of the files.
 
+git reset --hard commit_id or git reset --hard HEAD^
+git log : used to take a look about commit history
+git reflot : used to take a look about command history
 
 
