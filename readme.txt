@@ -16,3 +16,4 @@ git reflog : used to take a look about command history
 git checkout -- file : 
 git reset HEAD <file> : to clean the stage
  rands
+git &
